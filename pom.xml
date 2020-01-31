@@ -11,6 +11,15 @@
 
 
 
+    <dependencies>
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongodb-driver</artifactId>
+            <version>3.6.4</version>
+        </dependency>
+    </dependencies>
+
+
 
 
     <build>
